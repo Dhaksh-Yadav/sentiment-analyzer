@@ -12,8 +12,7 @@ This simple AI app uses a pre-trained transformer model to analyze sentiment (po
 pip install transformers
 python sentiment_app.py
 
-
-**## 🧪Example**
+## 🧪Example
  Input: I Love Learning AI
  Output: Sentiment: POSITIVE (confidence: 0.99)
 
