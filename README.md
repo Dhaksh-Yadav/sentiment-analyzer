@@ -7,10 +7,12 @@ This simple AI app uses a pre-trained transformer model to analyze sentiment (po
 - Hugging Face `transformers` library
 - `pipeline("sentiment-analysis")`
 
+
 ## 🚀 How to Run
-```bash
-pip install transformers
-python sentiment_app.py
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dhaksh-Yadav/sentiment-analyzer.git
+   cd sentiment-analyzer
 
 ## 🧪Example
  Input: I Love Learning AI
