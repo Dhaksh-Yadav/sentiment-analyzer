@@ -13,7 +13,7 @@ pip install transformers
 python sentiment_app.py
 
 
-## 🧪Example
+**## 🧪Example**
  Input: I Love Learning AI
  Output: Sentiment: POSITIVE (confidence: 0.99)
 
